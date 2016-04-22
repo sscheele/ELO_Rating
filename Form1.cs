@@ -148,12 +148,7 @@ namespace ELO_Rating
             if (playerRatings[1] >= 1600) p2variation = 18;
             else if (playerRatings[1] <= 1250) p2variation = 32;
 
-            //K value is inversely proportional to difference b/w scores
-            double diff = Math.Sqrt(Math.Abs(p1variation - p2variation)/11.0) + 1;
-            p1variation = (int)(p1variation / diff);
-            p2variation = (int)(p2variation / diff);
-
-            double expectedWinOne = 1/(Math.Pow(10, (playerRatings[1] - playerRatings[0]) / 400.0) + 1);
+            double expectedWinOne = 1/(Math.Pow(10, (playerRatings[1] - playerRatings[0]) / 300.0) + 1);
             double expectedWinTwo = 1 - expectedWinOne;
 
             double eloChange1 = p1variation * (p1score - expectedWinOne);

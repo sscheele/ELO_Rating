@@ -10,3 +10,15 @@ D:\Programs and Programming\Programming\C#\ELO_Rating\obj\Debug\ELO_Rating.cspro
 D:\Programs and Programming\Programming\C#\ELO_Rating\obj\Debug\ELO_Rating.exe
 D:\Programs and Programming\Programming\C#\ELO_Rating\obj\Debug\ELO_Rating.pdb
 D:\Programs and Programming\Programming\C#\ELO_Rating\obj\Debug\ELO_Rating.AddGameForm.resources
+C:\Users\samsc\Documents\GitHub\ELO_Rating\bin\Debug\ELO_Rating.exe.config
+C:\Users\samsc\Documents\GitHub\ELO_Rating\obj\Debug\ELO_Rating.exe
+C:\Users\samsc\Documents\GitHub\ELO_Rating\obj\Debug\ELO_Rating.pdb
+C:\Users\samsc\Documents\GitHub\ELO_Rating\bin\Debug\ELO_Rating.exe
+C:\Users\samsc\Documents\GitHub\ELO_Rating\bin\Debug\ELO_Rating.pdb
+C:\Users\samsc\Documents\GitHub\ELO_Rating\bin\Debug\System.Data.SQLite.dll
+C:\Users\samsc\Documents\GitHub\ELO_Rating\bin\Debug\System.Data.SQLite.xml
+C:\Users\samsc\Documents\GitHub\ELO_Rating\obj\Debug\ELO_Rating.csprojResolveAssemblyReference.cache
+C:\Users\samsc\Documents\GitHub\ELO_Rating\obj\Debug\ELO_Rating.AddGameForm.resources
+C:\Users\samsc\Documents\GitHub\ELO_Rating\obj\Debug\ELO_Rating.Form1.resources
+C:\Users\samsc\Documents\GitHub\ELO_Rating\obj\Debug\ELO_Rating.Properties.Resources.resources
+C:\Users\samsc\Documents\GitHub\ELO_Rating\obj\Debug\ELO_Rating.csproj.GenerateResource.Cache
