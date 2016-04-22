@@ -1,0 +1,12 @@
+D:\Programs and Programming\Programming\C#\ELO_Rating\bin\Release\ELO_Rating.exe.config
+D:\Programs and Programming\Programming\C#\ELO_Rating\bin\Release\ELO_Rating.exe
+D:\Programs and Programming\Programming\C#\ELO_Rating\bin\Release\ELO_Rating.pdb
+D:\Programs and Programming\Programming\C#\ELO_Rating\bin\Release\System.Data.SQLite.dll
+D:\Programs and Programming\Programming\C#\ELO_Rating\bin\Release\System.Data.SQLite.xml
+D:\Programs and Programming\Programming\C#\ELO_Rating\obj\Release\ELO_Rating.csprojResolveAssemblyReference.cache
+D:\Programs and Programming\Programming\C#\ELO_Rating\obj\Release\ELO_Rating.AddGameForm.resources
+D:\Programs and Programming\Programming\C#\ELO_Rating\obj\Release\ELO_Rating.Form1.resources
+D:\Programs and Programming\Programming\C#\ELO_Rating\obj\Release\ELO_Rating.Properties.Resources.resources
+D:\Programs and Programming\Programming\C#\ELO_Rating\obj\Release\ELO_Rating.csproj.GenerateResource.Cache
+D:\Programs and Programming\Programming\C#\ELO_Rating\obj\Release\ELO_Rating.exe
+D:\Programs and Programming\Programming\C#\ELO_Rating\obj\Release\ELO_Rating.pdb
